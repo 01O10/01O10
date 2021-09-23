@@ -1,4 +1,4 @@
-- 👋 Hey, this is Tim @01O10
+- 👋 Hey, this is T @01O10
 
 <!---
 01O10/01O10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,4 @@
-👋 Hi, I'm Tim (@01O10), Research Scientist in the field of Machine Learning and Data Science. 
-Welcome to my open github profile !
+👋 Hi, I'm Tim (@01O10), Welcome to my github profile !
 
 <!---
 01O10/01O10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
